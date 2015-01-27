@@ -1,4 +1,4 @@
-# <a href"www.dataonfocus.com">DataOnFocus</a> - Programming stuff focused on Data
+# [a link]www.dataonfocus.com DataOnFocus - Programming stuff focused on Data
 
 The main objective of this organization is to spread data related knowledge. So, subjects like data mining, data warehousing, business intelligence and predictive analytics are, obviously, on focus here.
 
